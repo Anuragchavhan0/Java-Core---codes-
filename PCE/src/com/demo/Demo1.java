@@ -12,8 +12,7 @@ public class Demo1 {
 		System.out.println(c);
 		int d = 0b1011;
 		System.out.println(d);
-		
-		
+			
 
 	}
 

@@ -1,11 +1,13 @@
 package com.demo;
 
-public class range {
+public class forLoop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		byte a = 12;
-		System.out.println(a);
+		
+		for(int i=0;i<=10;i++) {
+			System.out.println(i);
+		}
 
 	}
 
