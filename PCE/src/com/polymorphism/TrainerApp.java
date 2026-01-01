@@ -1,11 +1,10 @@
 package com.polymorphism;
 
-class Trainer{
+// used abstract class for imcomplete data .
+abstract class Trainer{
 	String name;
 	int expe;
-	  void teach(){
-		System.out.println("teaches");
-	}
+ abstract  void teach();
 }
 
 class JavaTrainer extends Trainer {
