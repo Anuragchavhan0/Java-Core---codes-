@@ -15,7 +15,8 @@ public class TreeSet1 {
 		ts.add(25);
 		ts.add(75);
 		ts.add(125);
-		ts.add(175);;
+		ts.add(175);
+		ts.add(null);
 		System.out.println(ts);
 	}
 

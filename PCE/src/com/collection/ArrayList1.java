@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class ArrayList1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		ArrayList al = new ArrayList();
 		al.add(10);
@@ -13,6 +12,7 @@ public class ArrayList1 {
 		al.add(true);
 		al.add(21.8);
 		al.add('A');
+		al.add(null);
 		
 		System.out.println(al);
 		

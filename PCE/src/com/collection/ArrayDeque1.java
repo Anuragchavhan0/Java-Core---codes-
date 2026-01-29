@@ -12,6 +12,7 @@ public class ArrayDeque1 {
 		al.add(true);
 		al.add(21.8);
 		al.add('A');
+	
 		
 		System.out.println(al);
 	}
