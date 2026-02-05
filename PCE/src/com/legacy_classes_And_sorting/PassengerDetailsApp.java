@@ -43,7 +43,7 @@ class  PassengerDetails implements Comparable{
 	
 	@Override
 	public String toString() {
-		return "PassengerDetails [id=" + id + "-> name=" + name + "-> DeFrom=" + deFrom + "-> To=" + to + "]";
+		return "PassengerDetails [id=" + id + " -> name=" + name + " -> DeFrom=" + deFrom + " -> to=" + to + "]";
 	}
 	
 	@Override
