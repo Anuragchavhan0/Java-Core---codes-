@@ -7,5 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="CalciByAnurag"/>
+	<classpathentry exported="true" kind="lib" path="/Users/anuragchavhan0/Downloads/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/anuragchavhan0/Downloads/ojdbc8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
